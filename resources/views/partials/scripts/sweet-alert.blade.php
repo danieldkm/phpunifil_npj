@@ -1,0 +1,1 @@
+<script type='text/javascript' src='/js/vendor/sweetalert/sweetalert.min.js'></script>

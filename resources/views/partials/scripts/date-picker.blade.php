@@ -1,0 +1,2 @@
+<script type="text/javascript" src="/js/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js"></script>
+<script type="text/javascript" src="/js/vendor/bootstrap-daterange/daterangepicker.js"></script>
